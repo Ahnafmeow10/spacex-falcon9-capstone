@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # SpaceX Falcon 9 First Stage Landing Prediction
 
 ## Overview
